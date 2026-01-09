@@ -26,7 +26,7 @@ A **very low-cost quadcopter drone** built around an **ESP32**, using:
 
 The focus is on **weight reduction, simplicity, and cost**.
 
-![Finished drone](./docs/img/PLACEHOLDER-finished-drone.png)
+![Finished drone](./img/finished-drone.png)
 
 ---
 
@@ -43,8 +43,6 @@ Here is the link to the complete components list **`BOM.csv`**.
 - Custom PCB reduces weight and improves symmetry
 - Motors are switched via MOSFETs (no ESCs)
 
-![System overview](./docs/img/PLACEHOLDER-system-overview.png)
-
 ---
 
 ### 2. Circuit & electronics
@@ -54,8 +52,6 @@ Here is the link to the complete components list **`BOM.csv`**.
 - 3.3 V regulation + Li-Po charging circuit
 - 4 MOSFET motor drivers with protection diodes
 
-![Schematic](./docs/img/schematic.png)
-
 ---
 
 ### 3. PCB design
@@ -64,7 +60,7 @@ Here is the link to the complete components list **`BOM.csv`**.
 - MPU6050 placed at the exact center
 - Motor mounts integrated into the PCB outline
 
-![PCB layout](./docs/img/pcb-layout.png)
+![PCB layout](./img/circuit-diagram.png)
 
 ---
 
@@ -73,7 +69,10 @@ Here is the link to the complete components list **`BOM.csv`**.
 - Order PCB (1.6 mm thickness recommended)
 - Order SMT stencil for easy assembly
 
-![PCB fabrication](./docs/img/pcb-fab.png)
+![PCB fabrication](./docs/img/pcb-fab-1.png)
+![PCB fabrication](./docs/img/pcb-fab-2.png)
+![PCB fabrication](./docs/img/pcb-fab-3.png)
+
 
 ---
 
