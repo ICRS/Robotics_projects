@@ -69,9 +69,9 @@ Here is the link to the complete components list **`BOM.csv`**.
 - Order PCB (1.6 mm thickness recommended)
 - Order SMT stencil for easy assembly
 
-![PCB fabrication](./docs/img/pcb-fab-1.png)
-![PCB fabrication](./docs/img/pcb-fab-2.png)
-![PCB fabrication](./docs/img/pcb-fab-3.png)
+![PCB fabrication](./img/pcb-fab-1.png)
+![PCB fabrication](./img/pcb-fab-2.png)
+![PCB fabrication](./img/pcb-fab-3.png)
 
 
 ---
